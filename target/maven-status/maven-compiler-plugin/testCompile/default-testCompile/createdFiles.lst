@@ -1,0 +1,5 @@
+pages\SwagLabsLoginPage.class
+testcases\BaseClass.class
+testcases\SwagLabsHome.class
+pages\SwagLabsHomePage.class
+testcases\SwagLabsLogin.class
